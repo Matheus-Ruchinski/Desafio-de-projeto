@@ -14,3 +14,5 @@ ls (listar)
 git add *
 git commit -m (conteudo)
 git Status
+git clone (url)
+git push origin main/master (enviar pra repositório do GitHub)
