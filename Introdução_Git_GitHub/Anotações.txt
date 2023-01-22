@@ -1,0 +1,16 @@
+Git Dowlaod:https://git-scm.com
+
+comandos:
+dir (diretorios/repositorios)
+cd
+cd/ ou cd windows (acessar pastas)
+cd .. (Voltar)
+cls (Limpar)
+mkdir nome (criar pasta)
+del nome (deleta arquivos)
+rmdir (deleta o repositorio e os arquivos dentro)
+echo > name (arquivo de texto)
+ls (listar)
+git add *
+git commit -m (conteudo)
+git Status
